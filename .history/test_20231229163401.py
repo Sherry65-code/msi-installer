@@ -1,0 +1,3 @@
+import msii
+
+msii.install()
